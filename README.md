@@ -47,7 +47,7 @@ package main
 
 import (
     "fmt"
-    "your-project/pkg/globalevents"
+    "github.com/error-none/globalevents"
 )
 
 func main() {
@@ -112,7 +112,7 @@ package main
 
 import (
     "fmt"
-    "your-project/pkg/globalevents"
+    "github.com/error-none/globalevents"
 )
 
 func main() {
